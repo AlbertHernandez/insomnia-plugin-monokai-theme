@@ -1,0 +1,30 @@
+{
+  "name": "insomnia-plugin-monokai-theme",
+  "version": "1.0.0",
+  "description": "Monokai theme for Insomnia",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Albert Hernandez <alberthendandezdev@gmail.com>",
+  "homepage": "https://github.com/AlbertHernandez/insomnia-plugin-monokai-theme#readme",
+  "insomnia": {
+    "name": "Monokai Theme",
+    "description": "Monokai theme for Insomnia",
+    "displayName": "Monokai Theme",
+    "applications": {
+      "core": "*"
+    },
+    "publisher": {
+      "name": "Albert Hernandez"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertHernandez/insomnia-plugin-monokai-theme.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "insomnia-theme"
+  ]
+}
